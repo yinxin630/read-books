@@ -47,3 +47,4 @@
 [RESTful Web APIs中文版](http://book.douban.com/subject/25909247/)  讲解了真正意义上的Restful风格，具有指导意义  
 [MongoDB权威指南（第2版）](http://book.douban.com/subject/25798102/)  全面系统的讲解了MongoDB的黑科技  
 [大型网站技术架构](http://book.douban.com/subject/25723064/) 大型网站不是设计出来的，是发展出来的  
+[响应式Web设计](https://book.douban.com/subject/20390374/) 一般般, 内容不够深入  
