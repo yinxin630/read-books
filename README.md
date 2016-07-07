@@ -48,3 +48,4 @@
 [MongoDB权威指南（第2版）](http://book.douban.com/subject/25798102/)  全面系统的讲解了MongoDB的黑科技  
 [大型网站技术架构](http://book.douban.com/subject/25723064/) 大型网站不是设计出来的，是发展出来的  
 [响应式Web设计](https://book.douban.com/subject/20390374/) 一般般, 内容不够深入  
+[史蒂夫·乔布斯传](https://book.douban.com/subject/6798611/) 收获成功的天马行空 = 天才  
