@@ -24,7 +24,7 @@
 [C#高级编程](http://book.douban.com/subject/3344305/) 入了C#的坑。。大部头，读了很久  
 [鸟哥的Linux私房菜](http://book.douban.com/subject/4889838/) linux入门书  
 [WPF编程宝典](http://book.douban.com/subject/3988968/) 粗略看了前几章。。只会简单使用wpf  
-[计算机网络](http://book.douban.com/subject/10510747/) 我是网络工程专业，书很不错，适合用于完整的了解计算机网络，奈何兴趣缺乏。。  
+[计算机网络](http://book.douban.com/subject/10510747/) 我是网络工程专业，书很不错，适合用于完整的了解计算机网络。。  
 [Java语言程序设计（基础篇）](http://book.douban.com/subject/6529833/) C#前途暗淡。。又入了Java坑。ƪ(‾￣o￣”)ʃ  
 [Java语言程序设计（进阶篇）](http://book.douban.com/subject/6529835/) 接上本。  
 [Java编程思想](http://book.douban.com/subject/2130190/) 必读书！但是内容较生硬，不适合初学者  
@@ -49,3 +49,4 @@
 [大型网站技术架构](http://book.douban.com/subject/25723064/) 大型网站不是设计出来的，是发展出来的  
 [响应式Web设计](https://book.douban.com/subject/20390374/) 一般般, 内容不够深入  
 [史蒂夫·乔布斯传](https://book.douban.com/subject/6798611/) 收获成功的天马行空 = 天才  
+[Web性能权威指南](https://book.douban.com/subject/25856314/) 介绍了大部分网络底层实现, 了解了web应用的传输和运行过程, 很不错的内容  
