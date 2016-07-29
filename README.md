@@ -50,3 +50,4 @@
 [响应式Web设计](https://book.douban.com/subject/20390374/) 一般般, 内容不够深入  
 [史蒂夫·乔布斯传](https://book.douban.com/subject/6798611/) 收获成功的天马行空 = 天才  
 [Web性能权威指南](https://book.douban.com/subject/25856314/) 介绍了大部分网络底层实现, 了解了web应用的传输和运行过程, 很不错的内容  
+[写给大家看的设计书（第3版）](https://book.douban.com/subject/3323633/) 4个基本原则: 亲密性、对齐、重复和对比   
