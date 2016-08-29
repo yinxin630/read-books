@@ -52,3 +52,4 @@
 [Web性能权威指南](https://book.douban.com/subject/25856314/) 介绍了大部分网络底层实现, 了解了web应用的传输和运行过程, 很不错的内容  
 [写给大家看的设计书（第3版）](https://book.douban.com/subject/3323633/) 4个基本原则: 亲密性、对齐、重复和对比   
 [黑客与画家](https://book.douban.com/subject/6021440/) 十分有意思的一本书, 一些内容给了我醍醐灌顶的感觉, 希望自己也能养成"黑客"的思维  
+[富爸爸，穷爸爸](https://book.douban.com/subject/1033778/) 语言朴实简单, 理论清晰. 提升财商  
