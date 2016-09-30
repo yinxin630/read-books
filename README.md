@@ -54,3 +54,4 @@
 [富爸爸，穷爸爸](https://book.douban.com/subject/1033778/)  
 [JavaScript高级程序设计（第3版）](https://book.douban.com/subject/10546125/)  
 [彼得·林奇的成功投资](https://book.douban.com/subject/4827219/)  
+[厚黑学](https://book.douban.com/subject/3859920/)  
