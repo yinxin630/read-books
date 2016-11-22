@@ -56,3 +56,5 @@
 [彼得·林奇的成功投资](https://book.douban.com/subject/4827219/)  
 [厚黑学](https://book.douban.com/subject/3859920/)  
 [超越自卑](https://book.douban.com/subject/1316093/)  
+[你不知道的JavaScript（上卷](https://book.douban.com/subject/26351021/)  
+[JavaScript语言精粹](https://book.douban.com/subject/3590768/)  
