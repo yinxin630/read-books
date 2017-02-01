@@ -61,5 +61,7 @@
 
 ## 2017:
 [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/)  
+[编写高质量代码](https://book.douban.com/subject/4881987/)  
+[你不知道的JavaScript（中卷）](https://book.douban.com/subject/26854244/)  
 [第三方JavaScript编程](https://book.douban.com/subject/26606848/)  
 [洗脑术](https://book.douban.com/subject/20616993/)  
