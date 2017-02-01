@@ -1,8 +1,8 @@
 # 我曾经读过的那些书：
 
-读书, 让自己进入作者的世界里, 取其精华, 提升自己.  
+读书, 进入作者的世界里, 取其精华, 提升自己.  
 
-## 大一：  
+## 2012：  
 [C Primer Plus](http://book.douban.com/subject/1240002/)   
 [C程序设计语言](http://book.douban.com/subject/1139336/)   
 [C专家编程](http://book.douban.com/subject/2377310/)   
@@ -10,7 +10,7 @@
 [C和指针](http://book.douban.com/subject/3012360/)  
 [C++ Primer Plus](http://book.douban.com/subject/1231875/)   
 
-## 大二：  
+## 2013：  
 [C++ Primer 中文版](http://book.douban.com/subject/1767741/)   
 [数据结构](http://book.douban.com/subject/1886174/)   
 [数据结构与算法分析](http://book.douban.com/subject/1139426/)   
@@ -20,7 +20,7 @@
 [Go 语言程序设计](http://book.douban.com/subject/25919900/)    
 [Pro.Git-中文版](http://book.douban.com/subject/3420144/)     
 
-## 大三：  
+## 2014：  
 [C#高级编程](http://book.douban.com/subject/3344305/)   
 [鸟哥的Linux私房菜](http://book.douban.com/subject/4889838/)   
 [计算机网络](http://book.douban.com/subject/10510747/)   
@@ -29,7 +29,7 @@
 [Java编程思想](http://book.douban.com/subject/2130190/)   
 [大话设计模式](http://book.douban.com/subject/2334288/)     
 
-## 大四：  
+## 2015：  
 [JavaScript权威指南](http://book.douban.com/subject/2228378/)    
 [Web全栈工程师的自我修养](http://book.douban.com/subject/26598045/)    
 [ECMAScript 6入门](http://es6.ruanyifeng.com/)    
@@ -61,3 +61,5 @@
 
 ## 2017:
 [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/)  
+[第三方JavaScript编程](https://book.douban.com/subject/26606848/)  
+[洗脑术](https://book.douban.com/subject/20616993/)  
