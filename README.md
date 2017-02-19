@@ -65,3 +65,5 @@
 [你不知道的JavaScript（中卷）](https://book.douban.com/subject/26854244/)  
 [第三方JavaScript编程](https://book.douban.com/subject/26606848/)  
 [洗脑术](https://book.douban.com/subject/20616993/)  
+[人人都是产品经理](https://book.douban.com/subject/10785377/)
+[启示录](https://book.douban.com/subject/5914587/)
