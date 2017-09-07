@@ -68,4 +68,4 @@
 [人人都是产品经理](https://book.douban.com/subject/10785377/)  
 [启示录](https://book.douban.com/subject/5914587/)  
 [深入react 技术栈](https://book.douban.com/subject/26918038/)  
-[《软技能：代码之外的生存指南》](https://book.douban.com/subject/26835090/)  
+[软技能：代码之外的生存指南](https://book.douban.com/subject/26835090/)  
