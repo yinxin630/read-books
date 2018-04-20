@@ -69,3 +69,7 @@
 [启示录](https://book.douban.com/subject/5914587/)  
 [深入react 技术栈](https://book.douban.com/subject/26918038/)  
 [软技能：代码之外的生存指南](https://book.douban.com/subject/26835090/)  
+
+## 2018:
+[人性的弱点](https://book.douban.com/subject/1837006/)  
+[前端工程化：体系设计与实践](https://book.douban.com/subject/27605366/)  
