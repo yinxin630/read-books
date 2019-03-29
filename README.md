@@ -73,3 +73,6 @@
 ## 2018:
 [人性的弱点](https://book.douban.com/subject/1837006/)  
 [前端工程化：体系设计与实践](https://book.douban.com/subject/27605366/)  
+
+## 2019:
+[活着](https://book.douban.com/subject/1082154/)  
