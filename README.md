@@ -3,6 +3,7 @@
 读书, 进入作者的世界里, 取其精华, 提升自己.  
 
 ## 2019:
+[创始人手记](https://book.douban.com/subject/30278560/)   
 [极客与团队](https://book.douban.com/subject/21372237/)   
 [狼书（卷1）：更了不起的Node.js](https://book.douban.com/subject/33950116/)   
 [活着](https://book.douban.com/subject/1082154/)  
