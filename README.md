@@ -2,6 +2,9 @@
 
 读书, 进入作者的世界里, 取其精华, 提升自己.  
 
+## 2021:
+[斯坦福极简经济学](https://book.douban.com/subject/26314063/)   
+
 ## 2019:
 [领导力21法则](https://book.douban.com/subject/27021991/)   
 [打造高效团队](https://www.amazon.cn/gp/product/B00QJQBYNG/ref=kinw_myk_ro_title)   
