@@ -3,6 +3,10 @@
 读书, 进入作者的世界里, 取其精华, 提升自己.  
 
 ## 2021:
+[通向财务自由之路](https://book.douban.com/subject/2382899//)   
+[范·撒普的超级交易员训练法](https://book.douban.com/subject/10508677/)   
+[艾略特波浪理论-市场行为的关键](https://book.douban.com/subject/5171466/)   
+[专业投机原理](https://book.douban.com/subject/4772958//)   
 [斯坦福极简经济学](https://book.douban.com/subject/26314063/)   
 
 ## 2019:
