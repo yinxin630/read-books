@@ -8,6 +8,9 @@
 [艾略特波浪理论-市场行为的关键](https://book.douban.com/subject/5171466/)   
 [专业投机原理](https://book.douban.com/subject/4772958//)   
 [斯坦福极简经济学](https://book.douban.com/subject/26314063/)   
+[韭菜的自我修养](https://book.douban.com/subject/30314653/)   
+[让时间陪你慢慢变富](https://book.douban.com/subject/34906885/)   
+[三体](https://book.douban.com/subject/2567698/)   
 
 ## 2019:
 [领导力21法则](https://book.douban.com/subject/27021991/)   
